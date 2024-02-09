@@ -1,2 +1,3 @@
 # git1
-my repo
+This is my first repo
+Author-Varshitha
